@@ -1,0 +1,21 @@
+{
+  "CPU_Model": "Intel64 Family 6 Model 158 Stepping 10, GenuineIntel",
+  "CPU_Physical_Cores": 6,
+  "CPU_Logical_Cores": 12,
+  "CPU_Max_Frequency": "2601.00 MHz",
+  "RAM_Total": "15.85 GB",
+  "RAM_Available": "6.12 GB",
+  "GPU_Available": true,
+  "GPU_Count": 1,
+  "GPU_Details": [
+    {
+      "GPU_ID": 0,
+      "GPU_Name": "NVIDIA GeForce GTX 1650 with Max-Q Design",
+      "GPU_Memory": "4.00 GB"
+    }
+  ],
+  "CUDA_Version": "12.4",
+  "cuDNN_Version": 90100,
+  "PyTorch_Version": "2.6.0+cu124",
+  "OS": "Windows 10"
+}

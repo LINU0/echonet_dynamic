@@ -5,3 +5,7 @@ echonet.cfg
 .echonet.cfg
 *.pyc
 echonet.egg-info/
+*.avi
+*.csv
+data_ready/
+filetype.ipynb
